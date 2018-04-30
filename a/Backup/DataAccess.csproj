@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>489e941a-af65-4b59-a306-52be0853f7e7</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DataAccess</RootNamespace>
+    <AssemblyName>DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataTools, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+            <Compile Include="BussinessLayer\BangGiaInfo.cs" />
+        <Compile Include="DataLayer\BangGiaDAO.cs" />
+        <Compile Include="BussinessLayer\BaoHanhInfo.cs" />
+        <Compile Include="DataLayer\BaoHanhDAO.cs" />
+        <Compile Include="BussinessLayer\ChiTietHoaDonInfo.cs" />
+        <Compile Include="DataLayer\ChiTietHoaDonDAO.cs" />
+        <Compile Include="BussinessLayer\ChiTietNhapHangInfo.cs" />
+        <Compile Include="DataLayer\ChiTietNhapHangDAO.cs" />
+        <Compile Include="BussinessLayer\ChiTietTraHangInfo.cs" />
+        <Compile Include="DataLayer\ChiTietTraHangDAO.cs" />
+        <Compile Include="BussinessLayer\HangHoaInfo.cs" />
+        <Compile Include="DataLayer\HangHoaDAO.cs" />
+        <Compile Include="BussinessLayer\HoaDonInfo.cs" />
+        <Compile Include="DataLayer\HoaDonDAO.cs" />
+        <Compile Include="BussinessLayer\KhachHangInfo.cs" />
+        <Compile Include="DataLayer\KhachHangDAO.cs" />
+        <Compile Include="BussinessLayer\LoaiInfo.cs" />
+        <Compile Include="DataLayer\LoaiDAO.cs" />
+        <Compile Include="BussinessLayer\NhanVienInfo.cs" />
+        <Compile Include="DataLayer\NhanVienDAO.cs" />
+        <Compile Include="BussinessLayer\NhapHangInfo.cs" />
+        <Compile Include="DataLayer\NhapHangDAO.cs" />
+        <Compile Include="BussinessLayer\TaiKhoanInfo.cs" />
+        <Compile Include="DataLayer\TaiKhoanDAO.cs" />
+        <Compile Include="BussinessLayer\TraHangInfo.cs" />
+        <Compile Include="DataLayer\TraHangDAO.cs" />
+        <Compile Include="Enumrations\Enumrations.cs" />
+        <Compile Include="Enumrations\StoredProcedureName.cs" />
+        <Compile Include="Provider\DataProvider.cs" />
+        <Compile Include="Provider\SqlDataProvider.cs" />
+        <Compile Include="Provider\SqlHelper.cs" />
+
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\DataTools.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

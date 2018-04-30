@@ -1,0 +1,10 @@
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\bin\Debug\Core.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\bin\Debug\Core.pdb
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\obj\Debug\Core.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\obj\Debug\Core.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\bin\Debug\Core.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\bin\Debug\Core.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\obj\Debug\Core.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\Core\Core\obj\Debug\Core.pdb

@@ -1,0 +1,49 @@
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.pdb
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.pdb
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.dll
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.dll
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.dll
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.dll
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.dll
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.dll
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.dll
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.dll
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.dll
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.pdb
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.dll
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\DataAccess.pdb
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.dll
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\bin\Debug\Core.pdb
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.dll
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\DataAccess\obj\Debug\DataAccess.pdb
+D:\DuAn\QLDT\DataAccess\bin\Debug\DataAccess.dll
+D:\DuAn\QLDT\DataAccess\bin\Debug\DataAccess.pdb
+D:\DuAn\QLDT\DataAccess\bin\Debug\Core.dll
+D:\DuAn\QLDT\DataAccess\bin\Debug\Core.pdb
+D:\DuAn\QLDT\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\DuAn\QLDT\DataAccess\obj\Debug\DataAccess.dll
+D:\DuAn\QLDT\DataAccess\obj\Debug\DataAccess.pdb

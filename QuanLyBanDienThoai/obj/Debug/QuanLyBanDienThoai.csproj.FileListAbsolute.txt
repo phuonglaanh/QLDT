@@ -1,0 +1,152 @@
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.pdb
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+D:\Năm 3\Học kì 2\Công nghệ phần mềm\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.dll
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+D:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.dll
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.xml
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+F:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+E:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.dll
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+I:\Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.dll
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.dll
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\Core.pdb
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.xml
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+F:\ \Chỉnh sửa bài hoản chỉnh\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe.config
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.exe
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.pdb
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.exe
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\QuanLyBanDienThoai.pdb
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\Core.dll
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\DataAccess.dll
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.dll
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\Core.pdb
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\DataAccess.pdb
+D:\DuAn\QLDT\QuanLyBanDienThoai\bin\Debug\DevComponents.DotNetBar2.xml
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csprojResolveAssemblyReference.cache
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormQLCHBanDT.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormThongTinSanPham.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormDangNhap.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.FormTinhNang.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Loai.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.NguoiDung.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.PhanQuyen.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.Properties.Resources.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.ThayDoiMatKhau.resources
+D:\DuAn\QLDT\QuanLyBanDienThoai\obj\Debug\QuanLyBanDienThoai.csproj.GenerateResource.Cache

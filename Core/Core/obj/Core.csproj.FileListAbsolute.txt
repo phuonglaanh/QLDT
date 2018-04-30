@@ -1,0 +1,5 @@
+E:\Documents and Settings\pm05\My Documents\Visual Studio 2005\Projects\Core\Core\bin\Debug\Core.dll
+E:\Documents and Settings\pm05\My Documents\Visual Studio 2005\Projects\Core\Core\bin\Debug\Core.pdb
+E:\Documents and Settings\pm05\My Documents\Visual Studio 2005\Projects\Core\Core\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\pm05\My Documents\Visual Studio 2005\Projects\Core\Core\obj\Debug\Core.dll
+E:\Documents and Settings\pm05\My Documents\Visual Studio 2005\Projects\Core\Core\obj\Debug\Core.pdb
