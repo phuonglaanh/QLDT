@@ -42,5 +42,6 @@ jobs:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         shell: powershell
         run: |
-          .\.sonar\scanner\dotnet-sonarscanner begin /k:"phuonglaanh_QLDT" /o:"phuonglaanh" /d:sonar.login="${{ secrets.ed44b58a73cc5a6e2871115e04b1e4a4df5801b6 }}" /d:sonar.host.url="https://sonarcloud.io"
-          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.ed44b58a73cc5a6e2871115e04b1e4a4df5801b6 }}"
+          .\.sonar\scanner\dotnet-sonarscanner begin /k:"phuonglaanh_QLDT" /o:"phuonglaanh" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
+          <your build command>
+          .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
